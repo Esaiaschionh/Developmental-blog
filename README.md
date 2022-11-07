@@ -2,7 +2,7 @@
 #What i learned in ID
 
 # Week01
-I learned how to create a website.
+I learned how to create a website.<br>
 I learned how to create a html file in visual studio.
 I learned the common html elements.
 I learned how to put an image into a website.

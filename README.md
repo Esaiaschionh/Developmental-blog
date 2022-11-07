@@ -27,3 +27,5 @@ I learned how to make a question have validations.<br>
 I learned about descendant selector.<br>
 I learned about class.<br>
 I learned how to go mobile mode in the computer.<br>
+I learned about position.<br>
+I learned about flexbox.<br>

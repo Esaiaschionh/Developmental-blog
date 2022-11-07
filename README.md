@@ -12,7 +12,7 @@ I learned how to link a website.<br>
 I learned how to change the colour of the website or specific parts of the website. <br>
 I learned about semantics. <br>
 I learned how to inspect a website. <br>
-I learned about "style".<br>
+I learned about "<style>".<br>
 I learned about '#'.<br>
 I learned how to change the fonts.<br>
 

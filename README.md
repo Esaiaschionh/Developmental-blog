@@ -19,8 +19,8 @@ I learned how to change the fonts.<br>
 I learned how to use css.<br>
 
 # Week03
-I learned about the '<form>' tag.<br>
-I learned how to use '<input>' tag to create different type of questiobns.<br>
+I learned about the 'form' tag.<br>
+I learned how to use 'input' tag to create different type of questiobns.<br>
 I learned how to create a button in a website.<br>
 I leanred how to put a placeholder in a text box.<br>
 I learned how to make a question have validations.<br>
@@ -47,3 +47,13 @@ I learned how to add a element.<br>
 I learned how to moodify classes, attributes and style.<br>
   
 # Week 06
+I learned more about javascript objects.<br>
+I learned what is DOM.<br>
+I learned what is a DOM tree.<br>
+
+# Week07
+I learned more about DOM.<br>
+I learned about event handling.<br>
+I learned what is an event object.<br>
+I learned about how to make validations for form.<br>
+I learned about local and session storage.<br>

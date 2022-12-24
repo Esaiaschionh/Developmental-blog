@@ -57,3 +57,15 @@ I learned about event handling.<br>
 I learned what is an event object.<br>
 I learned about how to make validations for form.<br>
 I learned about local and session storage.<br>
+
+# Week08
+I learned about jQuery and how it make things faster.<br>
+I learned how to select html and css tags using jQuery.<br>
+I learned about the get set attribute using jQuery.<br>
+I learned how to create new html elements using jQuery.<br>
+I learned about API and what is AJAX.<br>
+I learned how AJAX works.<br>
+  
+# Week 09
+I learned about how to use bootstrap.<br>
+I learned how to create card and navbar.<br>

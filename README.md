@@ -36,6 +36,14 @@ I learned how to make a max scale.<br>
 I learned how to fit image on a box.<br>
 I learned how to create media query to cater for mobile device.<br>
 I learned how to link Git into your visual studio.<br>
+I learned how to commit on visual studio.<br>
   
 # Week 05
 I learned what is javascript.<br>
+I learned how to use exercise file.<br>
+I learned about the basics of javascript.<br>
+I leaned about objects and how to build it in javascript.<br>
+I learned how to add a element.<br>
+I learned how to moodify classes, attributes and style.<br>
+  
+# Week 06

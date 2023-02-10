@@ -38,7 +38,7 @@ I learned how to create media query to cater for mobile device.<br>
 I learned how to link Git into your visual studio.<br>
 I learned how to commit on visual studio.<br>
   
-# Week 05
+# Week05
 I learned what is javascript.<br>
 I learned how to use exercise file.<br>
 I learned about the basics of javascript.<br>
@@ -46,7 +46,7 @@ I leaned about objects and how to build it in javascript.<br>
 I learned how to add a element.<br>
 I learned how to moodify classes, attributes and style.<br>
   
-# Week 06
+# Week06
 I learned more about javascript objects.<br>
 I learned what is DOM.<br>
 I learned what is a DOM tree.<br>
@@ -66,6 +66,19 @@ I learned how to create new html elements using jQuery.<br>
 I learned about API and what is AJAX.<br>
 I learned how AJAX works.<br>
   
-# Week 09
+# Week09
 I learned about how to use bootstrap.<br>
 I learned how to create card and navbar.<br>
+  
+# Week12
+I learned to use restDB.<br>
+I learned what is NoSQL and the advantages of using it.<br>
+
+# Week13
+I learned how to formaat ReadME.<br>
+I learned about what are the common qns & issues and how to solve them.<br>  
+  
+# Week14
+I learned about lottie animation.<br>
+I learned that lottie is extremly lightweight.<br>
+I learned how to find the animation i want and put it inside the code.<br>  
